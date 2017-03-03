@@ -1,7 +1,7 @@
 ## Swift-Daemon
 
 You can daemonize any swift process.
-`Daemon` can detouch your swift script from shell.
+`Daemon` can detach your swift script from shell.
 
 ```swift
 import Foundation
