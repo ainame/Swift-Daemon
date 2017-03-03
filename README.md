@@ -14,9 +14,9 @@ DispatchQueue(label: "foo").async {
     }
 }
 
+Daemon.daemonize()
+
 while true {
     sleep(1)
 }
-
-Daemon.daemonize()
 ```
